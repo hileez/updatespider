@@ -2,7 +2,7 @@
 
 # UpdateSpider监视网站更新爬虫程序
 
-updateSpider是使用Python开发的定时爬取网站链接监视网站更新的爬虫程序，可以在windows/linux/macos主流操作系统上运行。
+UpdateSpider是使用Python开发的定时爬取网站链接监视网站更新的爬虫程序，可以在windows/linux/macos主流操作系统上运行。
 
 
 
