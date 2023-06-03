@@ -1,6 +1,6 @@
 # -*- coding:utf-8 -*-
 # @Time : 2021/10/19 23:57
-# @Author: ZhenLi
+# @Author: Zhen
 # @File : spider.py
 
 import tkinter as tk
