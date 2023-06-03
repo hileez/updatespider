@@ -104,7 +104,7 @@ source ./run.sh
 ~~~json
 [
     {
-        "name":"中国政府网",
+        "name":"中国",
         "urls":[
             {
                 "url":"http://sousuo.gov.cn/column/30469/[0,3,1].htm"
